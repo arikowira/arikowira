@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @arikowira
 - 👀 I’m interested in Webiste Development
-- 🌱 I’m currently learning MERN Full-stack
+- 💪 I’m experienced in PHP and JavaScript
+- 🪜 I’m experienced in using Codeigniter 3 and Laravel PHP Framework also using Node.js, React.js and, Next.js
+- 🌱 I’m currently mastering MERN Full-stack
 - 📫 Email arikowirasetya@gmail.com to reach me
+
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
