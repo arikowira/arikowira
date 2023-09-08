@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arikowira
 - 👀 I’m interested in Webiste Development
-- 💪 I’m experienced in PHP and JavaScript
-- 🪜 I’m experienced in using Codeigniter 3 and Laravel PHP Framework also using Node.js, React.js and, Next.js
-- 🌱 I’m currently mastering MERN Full-stack
+- 💪 I’m experienced in PHP, JavaScript, and C#
+- 💪 I’m experienced in using CI, Laravel, Node.js, React.js and, Next.js, and ASP.Net
+- 🌱 I’m currently working and mastering C# ASP.Net Core Full-stack
 - 📫 Email arikowirasetya@gmail.com to reach me
 
 <!---- 💞️ I’m looking to collaborate on ...--->
