@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webiste Development
 - 💪 I’m experienced in PHP, JavaScript, and C#
 - 💪 I’m experienced in using CI, Laravel, Node.js, React.js and, Next.js, and ASP.Net
-- 🌱 I’m currently working and mastering C# ASP.Net Core Full-stack
+- 🌱 I’m currently working, mastering C# ASP.Net Core Full-stack and some DevOps Technologies 
 - 📫 Email arikowirasetya@gmail.com to reach me
 
 <!---- 💞️ I’m looking to collaborate on ...--->
